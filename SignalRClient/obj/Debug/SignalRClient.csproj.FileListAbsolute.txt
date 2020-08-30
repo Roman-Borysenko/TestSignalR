@@ -1,0 +1,13 @@
+C:\Users\romab\source\repos\SignalR\SignalRClient\bin\Debug\SignalRClient.exe.config
+C:\Users\romab\source\repos\SignalR\SignalRClient\bin\Debug\SignalRClient.exe
+C:\Users\romab\source\repos\SignalR\SignalRClient\bin\Debug\SignalRClient.pdb
+C:\Users\romab\source\repos\SignalR\SignalRClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\romab\source\repos\SignalR\SignalRClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\romab\source\repos\SignalR\SignalRClient\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+C:\Users\romab\source\repos\SignalR\SignalRClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\romab\source\repos\SignalR\SignalRClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\romab\source\repos\SignalR\SignalRClient\obj\Debug\SignalRClient.csprojAssemblyReference.cache
+C:\Users\romab\source\repos\SignalR\SignalRClient\obj\Debug\SignalRClient.csproj.CoreCompileInputs.cache
+C:\Users\romab\source\repos\SignalR\SignalRClient\obj\Debug\SignalRClient.csproj.CopyComplete
+C:\Users\romab\source\repos\SignalR\SignalRClient\obj\Debug\SignalRClient.exe
+C:\Users\romab\source\repos\SignalR\SignalRClient\obj\Debug\SignalRClient.pdb
